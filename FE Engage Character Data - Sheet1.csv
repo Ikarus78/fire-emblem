@@ -1,4 +1,4 @@
-Name,Level,Class,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld,Mov,HPgrowth,Strgrowth,Maggrowth,Dexgrowth,Spdgrowth,Defgrowth,Resgrowth,Lckgrowth,Bldgrowth
+,Level,Class,HP,Str,Mag,Dex,Spd,Def,Res,Lck,Bld,Mov,HPgrowth,Strgrowth,Maggrowth,Dexgrowth,Spdgrowth,Defgrowth,Resgrowth,Lckgrowth,Bldgrowth
 Alear,1,Dragon Child,22,6,0,5,7,5,3,5,4,4,60,35,20,45,50,40,25,25,5
 Vander,1,Paladin,40,11,5,10,8,10,8,6,8,6,60,25,10,25,35,35,20,10,5
 Clanne,1,Mage,19,1,8,11,9,4,7,4,4,4,40,35,10,40,50,30,25,20,5
